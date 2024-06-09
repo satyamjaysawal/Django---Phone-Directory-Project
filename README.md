@@ -33,8 +33,6 @@ python manage.py runserver
 ![image](https://github.com/satyamjaysawal/Django_Project/assets/108862706/83343bf3-8d9b-4d60-b8d9-f988a07c4a17)
 
 
-![image](https://github.com/satyamjaysawal/Django_Project/assets/108862706/2c4a7b84-ad0b-49b8-a75e-ddc41ed91138)
-
 ## http://127.0.0.1:8000/
 ## http://127.0.0.1:8000/admin/
 ## http://127.0.0.1:8000/api/users/register/
