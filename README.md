@@ -6,19 +6,19 @@
 ## Django - Phone Directory Project
 
 ## Create and Setup Django Project:
-django-admin startproject phone_directory
-cd phone_directory
-django-admin startapp contacts
-django-admin startapp users
-pip install djangorestframework django-cors-headers
+django-admin startproject phone_directory      
+cd phone_directory    
+django-admin startapp contacts         
+django-admin startapp users     
+pip install djangorestframework django-cors-headers         
 
-## Migrate and Create Superuser:
-python manage.py makemigrations
-python manage.py migrate
-python manage.py createsuperuser
+## Migrate and Create Superuser:    
+python manage.py makemigrations    
+python manage.py migrate      
+python manage.py createsuperuser     
 
-## Run the Server:
-python manage.py runserver
+## Run the Server:    
+python manage.py runserver    
 
 
 
