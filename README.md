@@ -22,9 +22,7 @@ python manage.py runserver
 
 
 
-
-
-
+## Terminal
 
 ![image](https://github.com/satyamjaysawal/Django_Project/assets/108862706/26ef2f78-175e-4c52-b9d7-5eafd6e3b9e6)
 
