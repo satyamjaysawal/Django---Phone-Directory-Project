@@ -38,7 +38,6 @@ python manage.py runserver
 ## http://127.0.0.1:8000/api/users/register/
 ## http://127.0.0.1:8000/api/users/login
 
-![image](https://github.com/satyamjaysawal/Django_Project/assets/108862706/d6168899-e67a-49c0-adfe-8a0bb0227939)
 
 
 ![image](https://github.com/satyamjaysawal/Django_Project/assets/108862706/7f304728-5bae-4935-b79e-29e1bd472c56)
