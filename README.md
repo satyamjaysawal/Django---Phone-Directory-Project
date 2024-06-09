@@ -5,10 +5,25 @@
 
 ## Django - Phone Directory Project
 
-![image](https://github.com/satyamjaysawal/Django_Project/assets/108862706/5aba0ca5-0f58-4f37-9aae-3d08cc0e64ca)
+## Create and Setup Django Project:
+django-admin startproject phone_directory
+cd phone_directory
+django-admin startapp contacts
+django-admin startapp users
+pip install djangorestframework django-cors-headers
+
+## Migrate and Create Superuser:
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+
+## Run the Server:
+python manage.py runserver
 
 
-![image](https://github.com/satyamjaysawal/Django_Project/assets/108862706/8986e4be-f73b-4694-b3d7-b212c3df2d69)
+
+
+
 
 
 ![image](https://github.com/satyamjaysawal/Django_Project/assets/108862706/26ef2f78-175e-4c52-b9d7-5eafd6e3b9e6)
